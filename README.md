@@ -13,6 +13,10 @@ UK Housing (Cleaned) dataset sourced from Kaggle
 ## Key Findings
 - Exponential housing inflation from 2000-2007
 - Median house prices ranged from £164k to £175k for 4 years after the 2008 financial crash
+- Median record high of £240k in 2021 caused by several factors: the rise of hybrid/remote work triggered by COVID-19, Stamp duty holiday & low interest rates
 - Top 5 counties with highest median house prices: (Windsor, West Berkshire, Buckinghamshire, Greater London, Hertfordshire)
 ## Files
+- `uk_median_house_prices.sql` – SQL query used for analysis
+- `uk_median_house_prices.png` – Visualisation of results
 ## Output
+![UK Housing Market](uk_median_house_prices.png)
